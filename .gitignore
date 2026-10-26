@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+
+# Executables
+dmatrix
+
+# Object files
+*.o
+
+# Editor files
+.vscode/
+.idea/
+*~
+.DS_Store
+
+# OS junk
+.DS_Store
+Thumbs.db
